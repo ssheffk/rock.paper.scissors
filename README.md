@@ -1,1 +1,3 @@
-# rrock_paper_scissors => JS
+###Rock - Paper - Scissors
+
+#### simple game
